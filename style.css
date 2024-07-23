@@ -31,12 +31,25 @@ nav ul li a {
     color: #333;
 }
 
+nav ul li a:hover {
+    color: blue;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+}
+
 main {
     background-color: #e2e2e2;
+    flex: 3;
 }
 
 aside {
     background-color: #f4f4f4;
+    flex: 1;
+    padding: 20px;
+    margin: 10px;
 }
 
 footer {
