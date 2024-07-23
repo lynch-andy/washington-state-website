@@ -11,8 +11,9 @@ header, nav, main, aside, footer {
 }
 
 header {
-    background-color: #f4f4f4;
+    background-color: #367591;
     text-align: center;
+    color: rgb(255, 255, 255);
 }
 
 nav ul {
@@ -41,12 +42,12 @@ nav ul li a:hover {
 }
 
 main {
-    background-color: #e2e2e2;
+    background-color: #61d2b4;
     flex: 3;
 }
 
 aside {
-    background-color: #f4f4f4;
+    background-color: #9dfdc7;
     flex: 1;
     padding: 20px;
     margin: 10px;
