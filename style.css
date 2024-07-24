@@ -58,3 +58,29 @@ footer {
     color: white;
     text-align: center;
 }
+
+.float-left {
+    float: left;
+    margin-right: 10px;
+}
+
+.position-relative {
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+
+.position-absolute {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+
+.highlight {
+    font-weight: bold;
+    color: red;
+}
+
+#important {
+    background-color: yellow;
+}
